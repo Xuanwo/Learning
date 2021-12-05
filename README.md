@@ -10,3 +10,7 @@ This means:
 - I will write [blog](https://github.com/Xuanwo/blog) if there are any thought I think is meaningful to report.
 
 I think it's a reproducible way of learning. Anyone with a similar background to mine can start learning incrementally with this repo. I am currently learning database system development from scratch, and I believe this project can be more or less beneficial for people who are also interested in database systems.
+
+---
+
+Moved to [Xuanwo](https://github.com/Xuanwo/Xuanwo).
